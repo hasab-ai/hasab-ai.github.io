@@ -6,3 +6,4 @@ Hasab (ሃሳብ) AI is created to promote research and development primarily on
 - Speech with Trascript forced alignment
 - ASR
 - Translation
+  - Literature review (paper: Neural Machine Translation for Low-Resource Languages: A Survey https://arxiv.org/pdf/2106.15115.pdf)
